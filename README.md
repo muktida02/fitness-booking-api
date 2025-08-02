@@ -60,3 +60,11 @@ omnify-django/
 ```bash
 git clone <repo-url>
 cd omnify-django
+
+
+## 📦 Setup Instructions
+
+### 1️⃣ Clone Repository
+```bash
+git clone https://github.com/muktida02/fitness_app_api.git
+cd omnify-django
